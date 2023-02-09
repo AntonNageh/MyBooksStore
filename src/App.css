@@ -1,0 +1,60 @@
+html, body, .root {
+    height: 100vh;
+  }
+  body {
+    line-height: 1.5;
+  }
+  body, .app {
+   background-color: white;
+  }
+  
+nav{
+    background-color: green;
+}
+.books {
+    display: flex;
+    flex-wrap: wrap;
+    list-style-type: none;
+    justify-content: space-around;
+}
+li{
+    margin: 35px;
+    padding: 10px;
+    box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+}
+li:hover{
+    transform: scale(1.1);
+    transition: 0.3s;
+}
+.Booktitle{
+  width: 150px;
+  margin-top: 15px;
+}
+.Bookauthor{
+    width: 150px;
+    color: black;
+    font-weight: light;
+}
+.add {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    padding: 2%;
+}
+.add:hover{
+    transform: scale(1.1);
+    transition: 0.3s ease-in;
+}
+.Booktitle{
+    color: black;
+    font-weight: bold;
+}
+.input{
+    box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+}
+.Searchinput{
+    border-bottom: 2px green;
+}
+.icons {
+    margin-left: 40%;
+}
