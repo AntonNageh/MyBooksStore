@@ -7,7 +7,8 @@ Here is a few things you will notice/should know :
 4- Also I've used Material UI + bootstrap, I created the project with bootstrap but I learned about (Discovered) Material UI 
 on the last day working on this project.
 5-It takes double trials (or some time) to see a respond so please be patient or just carry on moving books from a shelf to another, you'll eventually see a change.
-6-Finally, I really gained alot from this project and I hope everyone out there keep safe and keep developing (programming) : ) .
+6-I added Icons so the user can resize the window easily but It's not working..
+7-Finally, I really gained alot from this project and I hope everyone out there keep safe and keep developing (programming) : ) .
 
 Made with love.
 Thank you.
